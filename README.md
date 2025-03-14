@@ -1,1 +1,16 @@
-#Open-Platform-Software
+# Open-Platform-Software
+
+**中文課名：開放平台軟體**
+
+*課號：*
+
+## 關於時間
+
+## 關於老師
+```
+姓名：陳李書藤
+```
+
+### 備註
+
+HW1
